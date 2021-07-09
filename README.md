@@ -3,8 +3,7 @@ Telegram-Bot-Rate-CoronaforTurkey-movie
 
 Hi welcome my telegram-bot project,
 This project gives turkey's daily corona virus cases, movie information and exchange rate information.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- 
+
 I use webstrom and found the APIs.
 "https://api.genelpara.com/embed/doviz.json"
 "http://www.omdbapi.com/?apikey=d8d9e0e3&t="
